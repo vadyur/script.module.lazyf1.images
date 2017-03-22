@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.lazyf1.images" name="Images for LazyF1" version="0.0.1" provider-name="-=Vd=-">
+    <requires>
+        <import addon="xbmc.python" version="2.14.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="lib"/>
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <language>en</language>
+        <summary lang="en">Images for LazyF1</summary>
+        <summary lang="ru">Картинки для LazyF1</summary>
+    </extension>
+</addon>
