@@ -1,6 +1,6 @@
 
 def path():
-	return 'special://home/addons/plugin.video.lazyf1/resources/'
+	return 'special://home/addons/script.module.lazyf1.images/resources/'
 	
 def tracks():
 	return path() + 'tracks/'
