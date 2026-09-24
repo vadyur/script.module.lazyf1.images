@@ -1,0 +1,80 @@
+The track backgrounds listed below (tracks/<track>/bg.jpg) are taken from Wikimedia Commons,
+cropped to 16:9 and resized to 2048x1152.
+
+Track maps for buddh, imola, istanbul, jeddah, lasvegas, lusail, madring, miami, mugello,
+paulricard, portimao, valencia, yeongam, zandvoort (tracks/<track>/map.png) taken from f1-ua.com.
+
+buddh/bg.jpg
+    File:Indian Grand Prix 2013 (Ank Kumar, Infosys Limited) 03.jpg
+    https://commons.wikimedia.org/wiki/File:Indian_Grand_Prix_2013_(Ank_Kumar,_Infosys_Limited)_03.jpg
+    Author: Ank kumar; License: CC BY-SA 4.0
+
+hockenheim/bg.jpg
+    File:Kimi Raikkonen - Turn 1 of the Hockenheimring - 2014 German Grand Prix.jpg
+    https://commons.wikimedia.org/wiki/File:Kimi_Raikkonen_-_Turn_1_of_the_Hockenheimring_-_2014_German_Grand_Prix.jpg
+    Author: Justin LaBerge; License: CC BY 2.0
+
+imola/bg.jpg
+    File:2025 Emilia Romagna Grand Prix 03.jpg
+    https://commons.wikimedia.org/wiki/File:2025_Emilia_Romagna_Grand_Prix_03.jpg
+    Author: Jmmuguerza; License: CC BY-SA 4.0
+
+istanbul/bg.jpg
+    File:Istanbul Park aerial.jpg
+    https://commons.wikimedia.org/wiki/File:Istanbul_Park_aerial.jpg
+    Author: Adbar; License: CC BY-SA 3.0
+
+jeddah/bg.jpg
+    File:Jeddah Waterfront, Western Saudi Arabia (2026).jpg
+    https://commons.wikimedia.org/wiki/File:Jeddah_Waterfront,_Western_Saudi_Arabia_(2026).jpg
+    Author: Unknown author; License: CC BY-SA 4.0
+
+lasvegas/bg.jpg
+    File:2024 Las Vegas Grand Prix at the Sphere - Saturday, November 23, Orbi.jpg
+    https://commons.wikimedia.org/wiki/File:2024_Las_Vegas_Grand_Prix_at_the_Sphere_-_Saturday,_November_23,_Orbi.jpg
+    Author: Nascar9919; License: CC BY 4.0
+
+lusail/bg.jpg
+    File:Jorge Martín leads the pack 2021 Doha.jpg
+    https://commons.wikimedia.org/wiki/File:Jorge_Mart%C3%ADn_leads_the_pack_2021_Doha.jpg
+    Author: Box Repsol; License: CC BY 2.0
+
+madring/bg.jpg
+    File:CTBA desde Valdebebas - Madrid 01.jpg
+    https://commons.wikimedia.org/wiki/File:CTBA_desde_Valdebebas_-_Madrid_01.jpg
+    Author: Javier Perez Montes; License: CC BY-SA 4.0
+
+miami/bg.jpg
+    File:The first three rows of the grid ahead of the race start miami gp 2025.jpg
+    https://commons.wikimedia.org/wiki/File:The_first_three_rows_of_the_grid_ahead_of_the_race_start_miami_gp_2025.jpg
+    Author: Bassfish22; License: CC BY-SA 4.0
+
+mugello/bg.jpg
+    File:Charles Leclerc 2020 Tuscan Grand Prix - race day.jpg
+    https://commons.wikimedia.org/wiki/File:Charles_Leclerc_2020_Tuscan_Grand_Prix_-_race_day.jpg
+    Author: Eustace Bagge; License: CC BY-SA 4.0
+
+paulricard/bg.jpg
+    File:C42 Circuit Paul Ricard 2022.jpg
+    https://commons.wikimedia.org/wiki/File:C42_Circuit_Paul_Ricard_2022.jpg
+    Author: SFarfield; License: CC BY-SA 4.0
+
+portimao/bg.jpg
+    File:Autódromo Internacional do Algarve - Portimão - Portugal 🇵🇹 (53657009024).jpg
+    https://commons.wikimedia.org/wiki/File:Aut%C3%B3dromo_Internacional_do_Algarve_-_Portim%C3%A3o_-_Portugal_%F0%9F%87%B5%F0%9F%87%B9_(53657009024).jpg
+    Author: Vitor Oliveira from Torres Vedras, PORTUGAL; License: CC BY-SA 2.0
+
+valencia/bg.jpg
+    File:Alonso y massa en valencia-2010.JPG
+    https://commons.wikimedia.org/wiki/File:Alonso_y_massa_en_valencia-2010.JPG
+    Author: Alberto-g-rovi; License: CC BY-SA 3.0
+
+yeongam/bg.jpg
+    File:2012 Korean GP Lotus Ferrari.jpg
+    https://commons.wikimedia.org/wiki/File:2012_Korean_GP_Lotus_Ferrari.jpg
+    Author: LG전자; License: CC BY 2.0
+
+zandvoort/bg.jpg
+    File:Motorsport race track Circuit Zandvoort Formula one Grandprix (47856557161).jpg
+    https://commons.wikimedia.org/wiki/File:Motorsport_race_track_Circuit_Zandvoort_Formula_one_Grandprix_(47856557161).jpg
+    Author: dronepicr; License: CC BY 2.0
